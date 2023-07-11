@@ -1,0 +1,15 @@
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\bin\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.exe
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\bin\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.deps.json
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\bin\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.runtimeconfig.json
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\bin\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.dll
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\bin\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.pdb
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.AssemblyInfo.cs
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.dll
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\refint\CommunityLibraryMovieDVDManagementSystem.dll
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.pdb
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\CommunityLibraryMovieDVDManagementSystem.genruntimeconfig.cache
+C:\Users\Liguo\Downloads\CommunityLibraryMovieDVDManagementSystem\obj\Debug\net6.0\ref\CommunityLibraryMovieDVDManagementSystem.dll
